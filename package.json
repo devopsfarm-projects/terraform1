@@ -1,6 +1,11 @@
-
 {
-    "name": "",
+    "name": "{{cookiecutter.name}}",
     "private": true,
     "dependencies": {}
-}
+  }
+
+// {
+//     "name": "",
+//     "private": true,
+//     "dependencies": {}
+// }
